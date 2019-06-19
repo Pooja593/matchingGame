@@ -21,6 +21,7 @@ var secs;
 var mins;
 var hours;
 var t = 0;
+// getting stars instance from root file 
 var starsSec = [].slice.call(document.getElementsByClassName("fa-star"));
 var matchCards = document.getElementsByClassName("match");
 /*
